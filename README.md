@@ -1,6 +1,6 @@
 ## Bridget's Readme
 
-Hi my name is Bridget. I'm a master's student in political economics with an emphasis in data analytics. I have a *really cute dog named Gumbo*
+Hi my name is Bridget. I'm a master's student at Tulane. I have a *really cute* dog named _Gumbo_
 
 <!--
 **bgg999/bgg999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
